@@ -39,14 +39,6 @@ Exemplo de Uso
 Digite o nome do primeiro jogador: Lionel Messi
 Digite o nome do segundo jogador: Cristiano Ronaldo
 
-Carreira de Lionel Messi:
-Temporada: 2000-2021, Time: FC Barcelona
-
-Carreira de Cristiano Ronaldo:
-Temporada: 2002-2003, Time: Sporting CP
-Temporada: 2003-2009, Time: Manchester United
-Temporada: 2009-2018, Time: Real Madrid
-Temporada: 2018-2021, Time: Juventus
 
 Anos e times em que jogaram juntos:
 Temporada: 2003-2009, Times: FC Barcelona, Manchester United
