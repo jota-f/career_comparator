@@ -1,6 +1,9 @@
 # Comparador de Carreiras de Jogadores
 
-Este é um projeto simples que permite comparar as carreiras de dois jogadores de futebol e mostrar os anos e times em que eles jogaram juntos. Ele utiliza web scraping para obter informações da carreira dos jogadores a partir do site WorldFootball.net.
+
+
+
+Esta aplicação permite comparar as carreiras de dois jogadores de futebol e mostrar os anos e times em que eles jogaram juntos. Ele utiliza web scraping para obter informações da carreira dos jogadores a partir do site WorldFootball.net.
 
 ## Como Usar
 
@@ -54,6 +57,12 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 
 Licença
 Este projeto é licenciado sob a licença  GNU GENERAL PUBLIC LICENSE. Consulte o arquivo LICENSE para obter mais detalhes.
+
+
+Este é um projeto simples criado com base numa demanda em um site de freelancers.
+O objetivo aqui é estudo e aprendizado, não é esperado que este projeto atinja todos requistos e recursos solicitados.
+
+![image](https://github.com/jota-f/career_comparator/assets/21985346/c161a20d-fdef-4642-b4fc-944409c3196e)
 
 
 
